@@ -34,7 +34,6 @@ Try SolarCharge Pro today!
 V1: Write a LinkedIn post about SolarCharge Pro.
 
 V2: Added role, audience, tone and CTA.
-
 Improvement: More professional and engaging.
 
 # Prompt #2: Blog Introduction
