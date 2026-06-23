@@ -36,19 +36,6 @@ V1: Write a LinkedIn post about SolarCharge Pro.
 V2: Added role, audience, tone and CTA.
 
 Improvement: More professional and engaging.
-### Sample Output
-
-We're excited to announce SolarCharge Pro, a portable solar power bank designed for students and travelers. Stay powered anywhere with eco-friendly charging. Try SolarCharge Pro today!
-
-### Iteration
-
-V1: Write a LinkedIn post about SolarCharge Pro.
-
-V2: Added role, audience, tone, and CTA.
-
-Improvement: Output became more professional and engaging.
-
----
 
 # Prompt #2: Blog Introduction
 
@@ -74,6 +61,13 @@ Tone: {tone}
 
 Artificial Intelligence is transforming industries and creating new opportunities. From healthcare to education, AI is changing the world around us.
 
+### Iteration
+
+V1: Write a blog introduction about AI.
+
+V2: Added audience, tone, and word count.
+
+Improvement: The introduction became more targeted and engaging.
 ---
 
 # Prompt #3: Product Description
