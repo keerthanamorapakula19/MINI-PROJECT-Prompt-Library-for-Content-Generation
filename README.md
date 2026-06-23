@@ -36,3 +36,75 @@ V1: Write a LinkedIn post about SolarCharge Pro.
 V2: Added role, audience, tone and CTA.
 
 Improvement: More professional and engaging.
+### Sample Output
+
+We're excited to announce SolarCharge Pro, a portable solar power bank designed for students and travelers. Stay powered anywhere with eco-friendly charging. Try SolarCharge Pro today!
+
+### Iteration
+
+V1: Write a LinkedIn post about SolarCharge Pro.
+
+V2: Added role, audience, tone, and CTA.
+
+Improvement: Output became more professional and engaging.
+
+---
+
+# Prompt #2: Blog Introduction
+
+### Use Case
+
+Generate a blog introduction.
+
+### Techniques Used
+
+* Role Prompting
+* Placeholders
+
+### Prompt Template
+
+Act as a professional blogger.
+
+Write an introduction for a blog about {topic}.
+
+Audience: {audience}
+Tone: {tone}
+
+### Sample Output
+
+Artificial Intelligence is transforming industries and creating new opportunities. From healthcare to education, AI is changing the world around us.
+
+---
+
+# Prompt #3: Product Description
+
+### Use Case
+
+Create product descriptions.
+
+### Techniques Used
+
+* Role Prompting
+* Constraints
+
+### Prompt Template
+
+Act as an e-commerce copywriter.
+
+Write a description for {product_name}.
+
+Audience: {audience}
+Tone: {tone}
+
+### Sample Output
+
+SolarCharge Pro is a lightweight solar power bank offering fast charging, portability, and eco-friendly energy.
+
+### Iteration
+
+V1: Write a description for a solar power bank.
+
+V2: Added audience, tone, and benefits.
+
+Improvement: More detailed and persuasive.
+
